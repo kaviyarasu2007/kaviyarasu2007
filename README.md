@@ -47,5 +47,5 @@
 - 💬 Ask me about **pentesting, bug hunting, or automation**.  
 - 📫 **Email:** kavim3480@gmail.com
 - 📫 **Outlook:** kaviyarasu.bcy24@rathinam.in
-- 🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/kaviyarasu-m-0b3765377/)  
+- 🔗 **LinkedIn:** [Kaviyarasu M](https://www.linkedin.com/in/kaviyarasu-m-0b3765377/)  
 
