@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Kavi (Kavi_034)  
-### Bug Bounty Hunter | Web Pentester | Security Researcher | Linux Expert 
+### Bug Bounty Hunter🐞 | Web Pentester🌐 | Security Researcher🔒 | Linux Expert🐧
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F9C80E?style=flat&logo=bugcrowd&logoColor=black)](https://bugcrowd.com/Kavi_034)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kavim3480)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/)
