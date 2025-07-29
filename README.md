@@ -30,7 +30,7 @@
 ---
 
 ### 🏆 **Achievements**  
-- 🐛 **Ranked Top 5%** on Bugcrowd ([Profile](https://bugcrowd.com/Kavi_034))  
+- 🐛 **Ranked Top 5%** on Bugcrowd ([Kavi_034](https://bugcrowd.com/Kavi_034))  
 - ⚡ **HackerRank** [@kavim3480](https://www.hackerrank.com/profile/kavim3480) (5★ in Problem Solving)  
 - 📜 **CVE Discoveries** [*Optional: List CVEs if any*]  
 
