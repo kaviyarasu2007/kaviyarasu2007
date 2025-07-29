@@ -34,12 +34,7 @@
 - ⚡ **HackerRank** [@kavim3480](https://www.hackerrank.com/profile/kavim3480) (5★ in Problem Solving)  
 - 📜 **CVE Discoveries** [*Optional: List CVEs if any*]  
 
----
-
-### 📌 **Latest Blog Posts**  
-- [How I Hacked Lime EV’s API](https://yourblog.com) *(Replace with actual link)*  
-- [Automating Pentesting with Go](https://yourblog.com)  
-
+--- 
 ---
 
 ### 📊 **GitHub Stats**  
