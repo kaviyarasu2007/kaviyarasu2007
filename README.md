@@ -19,6 +19,11 @@
 - 📜 **Certifications:** [*List any certs like eJPT, OSCP, etc.*]  
 
 ---
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIxd2ptaXdsZjI3ajIwYmJqMTlpcjRzZzZ0M3pnMWNwaTkwMzFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif
+" width="300" />
+</div>
+
 
 ### 🛠️ **Tech Stack**  
 | **Area**       | **Skills**                                                                 |
