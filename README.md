@@ -35,11 +35,6 @@
 - 📜 **CVE Discoveries** [*Optional: List CVEs if any*]  
 
 --- 
----
-
-### 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaviyarasu2007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasu2007&layout=compact&theme=dark)  
 
 ---
 
