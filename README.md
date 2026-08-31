@@ -46,13 +46,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Note: Make sure to replace Kavi_034 with your exact GitHub username if it differs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavi_034&show_icons=true&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi_034&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasu2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasu2007&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi_034&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasu2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -75,5 +74,5 @@
 
 <p align="center">
   <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=Kavi_034&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kaviyarasu2007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
