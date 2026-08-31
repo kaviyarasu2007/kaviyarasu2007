@@ -44,10 +44,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasu2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Stats" width="48%" />
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasu2007&theme=tokyonight&hide_border=true" alt="Kavi's GitHub Streak" width="48%" />
+</div>
 ---
 
 ### 🏆 Achievements
